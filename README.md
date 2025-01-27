@@ -22,7 +22,7 @@ model-index:
 ---
 
 # **PPO** Agent playing **LunarLander-v2**
-This is a trained model of a **PPO** agent playing **LunarLander-v2**
+This is a trained model of a **PPO** agent playing **LunarLander-v2** using **Reinforcement Learning**
 using the [stable-baselines3 library](https://github.com/DLR-RM/stable-baselines3).
 
 ## Usage (with Stable-baselines3)
